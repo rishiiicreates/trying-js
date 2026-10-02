@@ -6,3 +6,4 @@ export * from './memoize.js';
 export * from './curry.js';
 export * from './pipe.js';
 export * from './sleep.js';
+export * from './retry.js';
