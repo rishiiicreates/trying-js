@@ -9,3 +9,4 @@ export * from './sleep.js';
 export * from './retry.js';
 export * from './mathUtils.js';
 export * from './uuid.js';
+export * from './storage.js';
