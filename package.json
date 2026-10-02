@@ -1,0 +1,23 @@
+{
+  "name": "trying-js",
+  "version": "1.0.0",
+  "description": "Clean, zero-dependency JavaScript utility collection and experiments",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./*": "./src/*.js"
+  },
+  "scripts": {
+    "test": "node --test test/**/*.test.js"
+  },
+  "keywords": [
+    "javascript",
+    "utilities",
+    "helpers",
+    "zero-dependency",
+    "esm"
+  ],
+  "author": "Hrishikesh Yadav <rishiicreates@gmail.com>",
+  "license": "MIT"
+}
