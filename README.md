@@ -6,3 +6,6 @@ Interactive JavaScript experiments, DOM manipulations, and sandbox prototypes.
 A lightweight playground repository for experimenting with vanilla JavaScript logic, UI styling, and browser APIs.
 
 <!-- co-authored test -->
+
+## Collaboration Guidelines
+Contributions and pair-programming are welcome.
